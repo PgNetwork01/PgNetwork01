@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1110216202179072070/1250102221887115416/banner_bulb_pgnetwork_white.png?ex=6669b7eb&is=6668666b&hm=85f2ca667e02ccae047306643e685332a43be3dbc8852e02a4b9eca772e0badf&" />
+<img src="https://cdn.discordapp.com/attachments/1110216202179072070/1250102221887115416/banner_bulb_pgnetwork_white.png?ex=6669b7eb&is=6668666b&hm=85f2ca667e02ccae047306643e685332a43be3dbc8852e02a4b9eca772e0badf&" width="100px" />
 
 - **Languages**:
     
