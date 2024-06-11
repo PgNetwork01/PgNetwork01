@@ -21,5 +21,5 @@
   
 - **Contact**:
     
-    ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram) 
-    [![Discord](https://img.shields.io/badge/Discord-000?style=flat-square&logo=Discord)](https://discord.gg/PgMaf9AM2W)
+    ![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=Telegram) 
+    [![Discord](https://img.shields.io/badge/DISCORD-000?style=flat-square&logo=Discord)](https://discord.gg/PgMaf9AM2W)
