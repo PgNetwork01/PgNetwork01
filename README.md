@@ -1,8 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1110216202179072070/1250102221887115416/banner_bulb_pgnetwork_white.png?ex=6669b7eb&is=6668666b&hm=85f2ca667e02ccae047306643e685332a43be3dbc8852e02a4b9eca772e0badf&" />
 
-<hr>
+## About Me
 
-- **About Me**:
 I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I'm always willing to learn new things! I am 15 years old and I live in the India. I have about 3 years of experience in creating websites, minigames and applications.
 
 <hr>
