@@ -42,9 +42,9 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
 
 - **Stats**
 
-  [![Pg Network's github stats](https://bad-apple-github-readme.vercel.app/api?username=PgNetwork01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Pg Network's github stats](https://bad-apple-github-readme.vercel.app/api?username=PgNetwork01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PgNetwork01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PgNetwork01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Pg Network's current streak](https://streak-stats.demolab.com/?user=PgNetwork01&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
