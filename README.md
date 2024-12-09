@@ -19,7 +19,7 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
 - **Databases**:
 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MONGODB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![MONGODB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=lightgreen)
 
   <hr>
 
