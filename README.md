@@ -6,20 +6,23 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
 
 - **Languages**:
     
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![SCSS](https://img.shields.io/badge/SCSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Go](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
+    ![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+    ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=ffdd54)
 
 <hr>
 
 - **Databases**:
 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MONGODB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=lightgreen)
+    ![MONGODB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
   <hr>
 
@@ -27,8 +30,9 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
     
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vs-code&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-F57C00.svg?style=for-the-badge&logo=firebase&logoColor=black)
+    ![Google](https://img.shields.io/badge/google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
   <hr>
 
