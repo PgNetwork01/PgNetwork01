@@ -51,7 +51,8 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
     
     [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XAZgdrR6k6)
     [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumanmishra799@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anshuman_not)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pgnetwork01)
+    [![Instagram](https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/anshuman_not)
     [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/PgNetwork01)
 
 <hr>
