@@ -49,7 +49,9 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
 
 - **Contact**:
     
-    ![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=Telegram&width=1000px) 
-    [![Discord](https://img.shields.io/badge/DISCORD-000?style=flat-square&logo=Discord)](https://discord.gg/PgMaf9AM2W)
+    [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XAZgdrR6k6)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumanmishra799@gmail.com)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anshuman_not)
+    [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/PgNetwork01)
 
 <hr>
