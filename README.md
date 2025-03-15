@@ -31,6 +31,7 @@ I am a full stack developer. I have experience with PHP, JS, HTML, Python, but I
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Firebase](https://img.shields.io/badge/firebase-F57C00.svg?style=for-the-badge&logo=firebase&logoColor=black)
+    ![CloudFlare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=black)
     ![Google](https://img.shields.io/badge/google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
