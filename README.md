@@ -11,6 +11,7 @@ I am Anshuman Mishra a full stack developer. I have experience with PHP, JS, HTM
     ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    [![JSON](https://img.shields.io/badge/JSON-grey.svg?style=for-the-badge&logo=JSON&logoColor=white)](https://img.shields.io/badge/JSON-gray?style=for-the-badge&logo=JSON&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
     ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=ffdd54)
