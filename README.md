@@ -46,7 +46,7 @@ I am Anshuman Mishra a full stack developer. I have experience with PHP, JS, HTM
 
 [![Pg Network's current streak](https://streak-stats.demolab.com/?user=PgNetwork01&count_private=true&theme=blue-green&title_color=00b3ff)](https://streak-stats.demolab.com/?user=PgNetwork01&count_private=true&theme=radical&title_color=00b3ff)
 
-[![Pg Network's Total stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bencheayoub&theme=radical)
+[![Pg Network's Total stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PgNetwork01&theme=radical&title_color=00b3ff)
 
 <hr>
 
