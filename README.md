@@ -7,6 +7,7 @@ I am Anshuman Mishra a full stack developer. I have experience with PHP, JS, HTM
 - **Languages**:
     
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
