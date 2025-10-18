@@ -41,8 +41,6 @@ I am Anshuman Mishra a full stack developer. I have experience with PHP, JS, HTM
   <hr>
 
 - **Stats**
-
-[![Pg Network's github stats](https://bad-apple-github-readme.vercel.app/api?username=PgNetwork01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=radical&title_color=00b3ff)](https://bad-apple-github-readme.vercel.app/api?username=PgNetwork01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=radical&title_color=00b3ff)
  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PgNetwork01&layout=compact&count_private=true&theme=radical&title_color=00b3ff)](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PgNetwork01&layout=compact&count_private=true&theme=radical&title_color=00b3ff)
 
